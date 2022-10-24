@@ -7,7 +7,7 @@ The purpose of this analysis was to use various supervised machine learning mode
 
 ### Naive Random Oversampling
 
-![naive oversample](naive_oversample.png?raw=true "Title")
+![naive oversample](images/naive_oversample.png?raw=true "Title")
 
 - Balanced Accuracy Score: 59.28%
 - Precision Score: 99%
@@ -15,35 +15,35 @@ The purpose of this analysis was to use various supervised machine learning mode
 
 ### SMOTE Oversampling
 
-![SMOTE oversample](SMOTE.png?raw=true "Title")
+![SMOTE oversample](images/SMOTE.png?raw=true "Title")
 
 - Balanced Accuracy Score: 59.28%
 - Precision Score: 99%
 - Recall Score: 65%
 
 ### Cluster Centroids Undersampling
-![cluster centroids undersample](cluster_centroids.png?raw=true "Title")
+![cluster centroids undersample](images/cluster_centroids.png?raw=true "Title")
 
 - Balanced Accuracy Score: 48.39%
 - Precision Score: 99%
 - Recall Score: 48%
 
 ### SMOTEENN Combination Over/Undersampling 
-![over/under combination](overunder_combo.png?raw=true "Title")
+![over/under combination](images/overunder_combo.png?raw=true "Title")
 
 - Balanced Accuracy Score: 64.39%
 - Precision Score: 99%
 - Recall Score: 57%
 
 ### Balanced Random Forest Classifier
-![balanced forest](balanced_forest.png?raw=true "Title")
+![balanced forest](images/balanced_forest.png?raw=true "Title")
 
 - Balanced Accuracy Score: 78.19%
 - Precision Score: 99%
 - Recall Score: 92%
 
 ### AdaBoost Classifier
-![AdaBoost](adaboost.png?raw=true "Title")
+![AdaBoost](images/adaboost.png?raw=true "Title")
 
 - Balanced Accuracy Score: 92.54%
 - Precision Score: 99%

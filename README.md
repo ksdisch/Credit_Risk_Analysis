@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Overview
-The purpose of this analysis was to use various supervised machine learning models to predict credit risk for potential clients. The models used included Logistic Regression, Balanced Random Forest, and Easy Ensemble. Additionally, re-sampling techniques such as Oversampling/SMOTE, Undersampling/Cluster Centroids, and SMOTEEN were used to resample the data to account for the fact that good loans easily outnumber risky loans. Finally, balanced accuracy scores, classification reports, and confusion matrixes were used to evaluate and compare the models and/or re-sampling techniques to determine which were best suited for this dataset.
+The purpose of this analysis was to use various supervised machine learning models to predict credit risk for potential clients. The models used included Logistic Regression, Balanced Random Forest, and Easy Ensemble. Additionally, re-sampling techniques such as Oversampling/SMOTE, Undersampling/Cluster Centroids, and SMOTEEN were used to resample the data to account for the fact that good loans easily outnumber risky loans. Finally, balanced accuracy scores, classification reports, and confusion matrixes were used to evaluate and compare the models and/or re-sampling techniques were used to determine which were best suited for this dataset.
 
 ## Results
 
